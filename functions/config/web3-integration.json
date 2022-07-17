@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web3-storage-integration",
+  "private_key_id": "75867732e5f28232eb8ea4657a8aa13215f59efe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkVzqM8Ggg4H0m\nQ0AHKAPGrtTc72ZX6wcuUVxYMsrEeJi8HUU/Y2gYr+SQMIAxgWwiLpXkRRg9BgNS\nrb0McE4Z3wmAm2AQ+OABxM7VbUvBb8AlDT0sDR7nFj4i6YZHJhY3Xm1T+uHb2r+T\nKvH6lsn3KtllD27MZhJKl5ivLeRIJLiEU5cUI2dLEDXdeenK5T0EpiaTLRlGbAAp\no6TUhYBm0+jERCVubRTICt+moKbm5FS4S39BdTW0FaG50zJFkNCKsxWK0uMb3rwE\n147H2SyocatIqA9I+2QwkrP375oV1aaD3Z21fccYNaMe8naeGo0xZ/j/DfQHyD91\n4muwQ8UNAgMBAAECggEAA5SKy2D5DNZG+k+MT2Ys1ubuRNFxAkNz9JdX8xDgpxFh\nFcakmGp23FtuyzyKUyVZiJi2W2P5jfAIaxr+E/xPhnc90lxibtgX0Py5N4D0oN3D\nR1z3W5j2lr1ZrqoDx5hAGuKqKdD9uJpFeERmNtwvpPCzosHrK2eQTwSAzt6EzKkn\nTzplF1bii0HEiPdSN/N5vEvgImG9zNqkv5EXulVM/DYeKjfqeGcTHCCUmR3b+MCy\nqzDbEJQz+5rIPMXu1Jw0/KSNXBnzaYOE24n+QavfyrTDtQbi/VXxvO2uAZcvaFv4\nDuC2tr8+vpBD2OKMvcspECQj39aV/QUiSFMZF283uwKBgQD6NzHjIjTQvy+n+hjT\nBGubdRL1gj0J/2itqK4Di1uSUkD9+f1eHrPnNJ9Xybp3FvnfR5pq/ewKGI3mK982\nV79gEHIEjnPEg437jqMBGT3ApCwFgtcQJQZt5NF+G+d4vSzZtHEz8raZs7/XLsN7\ndo9Jjm9kPi5psZN4OYm6VL5+wwKBgQDpnpNpGmbG6/u2GWLqmgbpF8BJTVZvrnXb\nNAh+0yY0E97fXbNr6pNjFA2AyxeScHokHMJQo5peqYFN+o+PLGUdIvCNXNOiP6H4\nU7F5Cwa9rl0DNpQmdl7LLbC+igF0PET8EsUj2FfIrWhixfye3H2uuhCCLwm56z1T\n5jo3HyoP7wKBgQC8wSyKGsDbBI8P2dQmQ7xlfrD5sfEX/Kvb7VawZ82BmTlcHt0q\nxmCStxjJYe2fbx66eEqeEcWhbBqHm2r8lL9S2bUZiNj+Uvul3FlNN9xk2bQ3yBcz\nH6s09Zuv1Z8NbzBJXxzSwnNLidTboHRpS+wV4jRX26ypoQMNe+JRRSKbfwKBgQDd\npF4UjEDQHxk7RdCL5UADK055/Q6xfGJCapZYxLjtFaEQZ9SO4QmeKWs6MvSVMXMg\nCcztNpqBju2nbr1+x07TGtAAPf5nY1mmwLiSrzxg/yktoD1kVE9REnMqAsKoZXnJ\ncYFppZp7QNHVTCOFEImJGOwKptfidOVFURsQKtf8LwKBgQDi9Fsj8v3LlpTg+HW5\nT6NxfjgJ7R8oZ38TQFZzl7Z4Wj10xrJG9+elp9ml5pWuYutkCgKvkMbWruK+turM\nMl3g+m0SgYAuPLUa3i1rivaqqOswHKcOsg3bPjJGGJAgKBCIi8ByAe8Ov4vEmxzj\nErTmtjBztQUQuwcHgpH/pK/VkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3oi7a@web3-storage-integration.iam.gserviceaccount.com",
+  "client_id": "117422638596113494717",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3oi7a%40web3-storage-integration.iam.gserviceaccount.com"
+}
