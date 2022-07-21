@@ -65,4 +65,4 @@ node_modules/
 # dotenv environment variables file
 .env
 
-/config/web3-integration.json
+/functions/config/web3-integration.json
